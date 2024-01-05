@@ -1,7 +1,8 @@
 repo_name: TawandaMavondo/Clean-Code-Collection-Books
 report_id: ff737f1e1721180d743580dfdae520ec
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:10:40+00:00'
+timestamp: '2024-01-05T08:27:08+00:00'
 requested_by: sdcuike
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/Clean-Code-Collection-Books
   detection_source: Repo Metadata
